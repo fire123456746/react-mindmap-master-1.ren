@@ -9,14 +9,14 @@ export const downloadFile = (url, filename) => {
 };
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBaQ9Bm_oUOLThHeK3S2ZQebpRjHYTW_X0",
-  authDomain: "test-dd34d.firebaseapp.com",
-  databaseURL: "https://test-dd34d.firebaseio.com",
-  projectId: "test-dd34d",
-  storageBucket: "test-dd34d.appspot.com",
-  messagingSenderId: "1006914451665",
-  appId: "1:1006914451665:web:7b2437a3219fd59652adf0",
-  measurementId: "G-BDWX6YGSC5"
+  apiKey: "AIzaSyAxMyCxvrkFYPrAhk_wlF6XQN6hq8C_tPg",
+  authDomain: "test-94fb7.firebaseapp.com",
+  databaseURL: "https://test-94fb7.firebaseio.com",
+  projectId: "test-94fb7",
+  storageBucket: "test-94fb7.appspot.com",
+  messagingSenderId: "135525983448",
+  appId: "1:135525983448:web:25585c58ab33992bf4e3ad",
+  measurementId: "G-EZK1T2D5B9"
 };
 firebase.initializeApp(firebaseConfig);  
 var db=firebase.database();
